@@ -1,0 +1,38 @@
+html {
+    background-color: blueviolet;
+}
+
+.text {
+    text-align: center;
+    color: white;
+    text-emphasis-color: yellow;
+    font-family:'Courier New', Courier, monospace;
+} 
+
+.text p {
+    padding-top: 10px;
+    padding-right: 160px;
+    padding-left: 160px;
+}
+
+.text figcaption {
+    color: black;
+    font-weight: bolder;
+}
+
+.text figure {
+    padding-top: 20px;
+}
+
+.text img {
+    width: 70%;
+    border: yellow solid 3px;
+    box-shadow: aqua 20px 20px;
+}
+
+.text h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: yellow;
+    padding-bottom: 25px;
+    border-bottom: 3px solid rgba(0, 0, 0, 0.171);
+}
