@@ -1,0 +1,36 @@
+html {
+    background-color: rgb(38, 38, 43);
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 9%;
+}
+
+.text {
+    padding-left: 10px;
+    font-size: 21px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: bolder;
+}
+
+.search {
+    margin-top: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.search input {
+    width: 713px;
+    height: 50px;
+    background-color: rgb(59, 59, 65);  
+    border: none;
+    font-size: 15px;
+    color: white;
+    border-radius: 7px;
+    box-shadow: 2px 4px 8px rgb(35, 35, 39);
+}
